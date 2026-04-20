@@ -40,16 +40,16 @@ This project follows the **MVC (Model–View–Controller)** architecture:
 ## 📸 Screenshots
 
 ### 🔐 Authentication
-![Login](images/login.jpg)
-![Register](images/register.jpg)
+![Login](login.jpg)
+![Register](register.jpg)
 
 ### 📦 Product Management
-![Product Inventory](images/listp.jpg)
-![Add Product](images/addp.jpg)
+![Product Inventory](listp.jpg)
+![Add Product](addp.jpg)
 
 ### 🏭 Supplier Management
-![Supplier Inventory](images/lists.jpg)
-![Add Supplier](images/adds.jpg)
+![Supplier Inventory](lists.jpg)
+![Add Supplier](adds.jpg)
 
 ---
 
