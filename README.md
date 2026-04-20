@@ -53,6 +53,14 @@ This project follows the **MVC (Model–View–Controller)** architecture:
 
 ---
 
+## 📄 Documentation
+
+Full project report with system design and implementation details:
+
+👉 [View Full Report](report_G1.pdf)
+
+---
+
 ## 👨‍💻 Contribution
 
 This project was completed as part of a university assignment.  
